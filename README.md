@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolas-silvas-projects&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-silvas-projects&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolas-silvas-projects&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nicolas-silvas-projects&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolas-silvas-projects&theme=tokyonight"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58A6FF/SEU_USUARIO" alt="GitHub Contributions"/>
+<img src="https://ghchart.rshah.org/58A6FF/Nicolas-Hub-Ops" alt="GitHub Contributions"/>
 
 </div>
 
