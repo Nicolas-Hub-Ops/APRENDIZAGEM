@@ -8,9 +8,9 @@
 ```
 📦 Desenvolvimento Back-End em Python
 │
-├── 📚 Base: Fundamentos de Programação com Python
-│   ├── Pensamento computacional: Fundamentos da computação e lógica de programação
-│   └── Python: Crie a sua primeira aplicação
+├── 📚 Base: Fundamentos de Programação com Python 
+│   ├── Pensamento computacional: Fundamentos da computação e lógica de programação ✓
+│   └── Python: Crie a sua primeira aplicação ✓
 │
 │
 ├── 💻 Nível 1: Estruturando Aplicações Web
