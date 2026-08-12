@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=00065e&text=GITHUB&fontColor=FFFFFF&animation=twinkling&descAlign=50&descAlignY=50'/>
+    <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=00065e&text=BASE&fontColor=FFFFFF&animation=twinkling&descAlign=50&descAlignY=50'/>
 </p>
 
 # 🧠 Pensamento Computacional
@@ -34,5 +34,5 @@
 
 
 <p align='center'>
-<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=00065e&text=GITHUB&fontColor=FFFFFF&animation=twinkling&descAlign=50&descAlignY=50&section=footer'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=00065e&text=BASE&fontColor=FFFFFF&animation=twinkling&descAlign=50&descAlignY=50&section=footer'/>
 </p>
