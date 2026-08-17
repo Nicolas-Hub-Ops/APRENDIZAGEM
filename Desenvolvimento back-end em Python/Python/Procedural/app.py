@@ -6,6 +6,7 @@ rede = [
     {'dispositivo': 'Smart TV', 'ativo': True, 'categoria': 'Entretenimento'},
     {'dispositivo': 'Lava-louça', 'ativo': False, 'categoria': 'Eletrodoméstico'},
     {'dispositivo': 'Lava-roupa', 'ativo': False, 'categoria': 'Eletrodoméstico'},
+    
     {'dispositivo': 'Cafeteira', 'ativo': False, 'categoria': 'Eletrodoméstico'},
     {'dispositivo': 'Iluminação direta', 'ativo': False, 'categoria': 'Iluminação'},
     {'dispositivo': 'Iluminação indireta', 'ativo': True, 'categoria': 'Iluminação'},
