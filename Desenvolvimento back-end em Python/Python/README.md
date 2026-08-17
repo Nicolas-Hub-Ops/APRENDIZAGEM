@@ -1,6 +1,7 @@
 <p align='center'>
     <img src='https://capsule-render.vercel.app/api?type=waving&width=00&height=300&color=0:030391,100:a6b804&text=PYTHON&fontColor=FFFFFF&animation=twinkling&descAlign=50&descAlignY=50'/>
 </p>
+
 # 🧠 Pensamento Computacional
 
 É a capacidade de **resolver problemas de forma lógica e organizada**, dividindo problemas grandes em partes menores.
@@ -31,6 +32,16 @@
 4. Caso contrário, negar
 ```
 
+# 🐍 Paradigmas de Programação
+
+Paradigmas de programação são formas de organizar e estruturar o código para resolver problemas.
+
+Neste resumo veremos dois paradigmas importantes:
+
+- **PP** → Programação Procedural
+- **POO** → Programação Orientada a Objetos
+
+---
 
 <p align='center'>
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030391,100:a6b804&text=PYTHON&fontColor=FFFFFF&animation=twinkling&descAlign=50&descAlignY=50&section=footer'/>
