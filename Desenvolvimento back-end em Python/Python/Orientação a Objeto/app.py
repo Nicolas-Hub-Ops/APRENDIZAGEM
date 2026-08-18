@@ -1,26 +1,25 @@
-import os
-
-class Dispositivo:
-
-    rede = [
-        
-    ]
-
-    def __init__(self, dispositivo, categoria):
-        self.dispositivo = dispositivo
-        self.categoria = categoria
-        self.ativo = False
-        Dispositivo.rede.append(self)
+from models.dispositivo import Dispositivo
 
 
-    def listar_dispositivos():
-        for dispostivo in Dispositivo.rede:
-            print(f"\nDispositivo: {dispostivo.dispositivo}")
-            print(f"Categoria: {dispostivo.categoria}")
-            print(f"Ativo: {dispostivo.ativo}")
-            print(f"---" * 30)
+smartSensor = Dispositivo('Smart Sensor', 'Automação')
+arCondicionado = Dispositivo('Ar-condicionado', 'Climatização')
+sistemaSom = Dispositivo('Sistema de Som', 'Entretenimento')
+smartTv = Dispositivo('Smart Tv', 'Entretenimento')
+umidificador = Dispositivo('Umidificador', 'Climatização')
+lavaLouca = Dispositivo('Lava-Louça', 'Eletrodoméstico')
 
+smartSensor.consumo_energia(25)
+smartSensor.consumo_energia(55)
 
-Dispositivo('Smart Sensor', 'Automação')
+arCondicionado.consumo_energia(780)
+arCondicionado.consumo_energia(920)
+arCondicionado.consumo_energia(670)
 
-Dispositivo.listar_dispositivos()
+smartSensor.alternar_status()
+smartTv.alternar_status()
+
+def main():
+    Dispositivo.listar_dispositivos()
+
+if __name__ == '__main__':
+    main()
