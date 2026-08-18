@@ -15,7 +15,7 @@
 │
 ├── 💻 Nível 1: Estruturando Aplicações Web
 │   ├── Git e GitHub: compartilhando e colaborando em projetos ✓
-│   ├── Python: aplicando a Orientação a Objetos
+│   ├── Python: aplicando a Orientação a Objetos ✓
 │   ├── Python: avance na Orientação a Objetos e consuma API
 │   ├── Redes e Protocolos: fundamentos da web
 │   ├── Python: persistência de dados com arquivos, bancos de dados e APIs REST
